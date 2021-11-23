@@ -1,2 +1,3 @@
 This is the 1st file
 To supress the git config message
+This is via git clone
